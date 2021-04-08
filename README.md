@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Watremons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Watremons)](https://github.com/anuraghazra/github-readme-stats)
+[![Watremons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Watremons&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watremons&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
