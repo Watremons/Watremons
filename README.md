@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](http://antzuhl.cn:4000/get/@Watremons)
-
-
 
 
 <a href="https://github.com/anuraghazra/convoychat">
