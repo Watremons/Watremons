@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Watremons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Watremons)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watremons&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
