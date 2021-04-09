@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Watremons&theme=prussian&show_icons=true&count_private=true" />
 </a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Watremons&WakeTime Time Statistic" />
+</a>
