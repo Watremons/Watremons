@@ -2,7 +2,7 @@
 
 A normal programmer from ECNU, China.
 
-A member of [L1ANLab](https://github.com/L1ANLab) focusing on cs.DB.:floppy_disk:
+A member of [L1ANLab](https://github.com/L1ANLab) focusing on cs.DB. :floppy_disk:
 
 Favourite IDE: [![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 
